@@ -1,0 +1,9 @@
+{
+  "city": "Vaasa",
+  "center_wgs84": [
+    63.096,
+    21.6158
+  ],
+  "buffer_km": 50,
+  "description": "50km buffer around Vaasa"
+}

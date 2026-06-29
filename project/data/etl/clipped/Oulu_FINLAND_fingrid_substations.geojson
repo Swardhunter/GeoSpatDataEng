@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Oulu_FINLAND_fingrid_substations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 103, "SA": "PYHÄNSELKÄ 110 kV", "X": 456015.205, "Y": 7191384.38, "Tuotanto__": 40, "Tuotanto_1": 80, "Tuotanto_2": 80, "Kulutus_25": 300, "Tyyppi": "110" }, "geometry": { "type": "Point", "coordinates": [ 26.072643106859555, 64.843939885790988 ] } },
+{ "type": "Feature", "properties": { "FID": 104, "SA": "PYHÄNSELKÄ 400 kV", "X": 456015.205, "Y": 7191384.38, "Tuotanto__": 0, "Tuotanto_1": 1000, "Tuotanto_2": 1000, "Kulutus_25": 500, "Tyyppi": "400" }, "geometry": { "type": "Point", "coordinates": [ 26.072643106859555, 64.843939885790988 ] } },
+{ "type": "Feature", "properties": { "FID": 170, "SA": "PYHÄNSELKÄ 220 kV", "X": 456015.205, "Y": 7191384.38, "Tuotanto__": 0, "Tuotanto_1": 0, "Tuotanto_2": 0, "Kulutus_25": 0, "Tyyppi": "220" }, "geometry": { "type": "Point", "coordinates": [ 26.072643106859555, 64.843939885790988 ] } },
+{ "type": "Feature", "properties": { "FID": 102, "SA": "PYHÄKOSKI 110 kV", "X": 454225.372, "Y": 7191543.096, "Tuotanto__": 0, "Tuotanto_1": 0, "Tuotanto_2": 0, "Kulutus_25": 0, "Tyyppi": "110" }, "geometry": { "type": "Point", "coordinates": [ 26.034862370574391, 64.845123778536731 ] } },
+{ "type": "Feature", "properties": { "FID": 171, "SA": "PYHÄKOSKI 220 kV", "X": 454225.372, "Y": 7191543.096000001, "Tuotanto__": 0, "Tuotanto_1": 0, "Tuotanto_2": 0, "Kulutus_25": 0, "Tyyppi": "220" }, "geometry": { "type": "Point", "coordinates": [ 26.034862370574391, 64.845123778536731 ] } },
+{ "type": "Feature", "properties": { "FID": 122, "SA": "SIIKAJOKI 110 kV", "X": 407608.988, "Y": 7174180.668, "Tuotanto__": 0, "Tuotanto_1": 0, "Tuotanto_2": 0, "Kulutus_25": 300, "Tyyppi": "110" }, "geometry": { "type": "Point", "coordinates": [ 25.063675593016008, 64.679796191995948 ] } },
+{ "type": "Feature", "properties": { "FID": 98, "SA": "PIKKARALA 110 kV", "X": 440261.075, "Y": 7199807.462, "Tuotanto__": 380, "Tuotanto_1": 380, "Tuotanto_2": 380, "Kulutus_25": 300, "Tyyppi": "110" }, "geometry": { "type": "Point", "coordinates": [ 25.737030547625473, 64.917059764303247 ] } },
+{ "type": "Feature", "properties": { "FID": 172, "SA": "PIKKARALA 400 kV", "X": 440261.075, "Y": 7199807.4620000012, "Tuotanto__": 0, "Tuotanto_1": 0, "Tuotanto_2": 0, "Kulutus_25": 500, "Tyyppi": "400" }, "geometry": { "type": "Point", "coordinates": [ 25.737030547625473, 64.917059764303247 ] } },
+{ "type": "Feature", "properties": { "FID": 75, "SA": "LEVÄSUO 110 kV", "X": 432424.083, "Y": 7214139.45, "Tuotanto__": 200, "Tuotanto_1": 200, "Tuotanto_2": 200, "Kulutus_25": 600, "Tyyppi": "110" }, "geometry": { "type": "Point", "coordinates": [ 25.564526357309894, 65.044122106351622 ] } },
+{ "type": "Feature", "properties": { "FID": 33, "SA": "ISOKANGAS 110 kV", "X": 439048.221, "Y": 7238818.232, "Tuotanto__": 0, "Tuotanto_1": 0, "Tuotanto_2": 290, "Kulutus_25": 200, "Tyyppi": "110" }, "geometry": { "type": "Point", "coordinates": [ 25.694353328768745, 65.266781852725487 ] } },
+{ "type": "Feature", "properties": { "FID": 34, "SA": "ISOKANGAS 400 kV", "X": 439048.221, "Y": 7238818.232, "Tuotanto__": 560, "Tuotanto_1": 760, "Tuotanto_2": 760, "Kulutus_25": 500, "Tyyppi": "400" }, "geometry": { "type": "Point", "coordinates": [ 25.694353328768745, 65.266781852725487 ] } }
+]
+}

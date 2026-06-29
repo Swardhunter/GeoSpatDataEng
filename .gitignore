@@ -1,0 +1,31 @@
+# Generated data — fetched & ETL outputs, too large for git
+project/data/*
+# but keep the lightweight vector layers the map needs
+!project/data/etl/
+project/data/etl/*
+!project/data/etl/*_buffer.geojson
+!project/data/etl/clipped/
+!project/data/etl/clipped/*.geojson
+!project/data/etl/exclusions/
+!project/data/etl/exclusions/*.geojson
+!project/data/etl/suitability/
+!project/data/etl/suitability/*.geojson
+
+# GeoTIFF / GeoParquet
+*.tif
+*.tiff
+*.parquet
+*.geoparquet
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
